@@ -56,10 +56,19 @@ class MySprite():
         if self.dx>0 :
             screen.blit(cimg, (int(self.px), int(self.py)))
         else:
-            screen.blit(pygame.transform.flip(cimg, True, False), (int(self.px), int(self.py)))
+            if self.isPacman() and (self.dy != 0):
+                if self.dy>0:
+                    rot=-90
+                else:
+                    rot=90
+                timg=pygame.transform.rotozoom(cimg, rot, 1.0)
+                screen.blit(timg, (int(self.px), int(self.py)))
+            else:
+                screen.blit(pygame.transform.flip(cimg, True, False), (int(self.px), int(self.py)))
+
 
     def update(self):
-        self.ind = int(self.px/20) % self.n
+        self.ind = int((self.px+self.py)/20) % self.n
         self.px = self.px+self.dx
         self.py = self.py+self.dy
 
@@ -131,6 +140,7 @@ def main():
     sprites.append(MySprite("pacman",4,P2))
 
     clock = pygame.time.Clock()
+    n=1000
     while 1:
         clock.tick(40)
 
@@ -161,7 +171,11 @@ def main():
             sprites[i].draw(screen)
             if not(pause): sprites[i].update()
 
+        pygame.image.save(screen,'day1_'+str(n)+'.png')
+        n=n+1
+
         pygame.display.flip()
+
 
 
 if __name__ == '__main__': main()

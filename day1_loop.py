@@ -121,11 +121,13 @@ class MySprite():
 def main():
     # basic start
     pygame.init()
-    screen = pygame.display.set_mode((SCREEN_W, SCREEN_H))
+    screen = pygame.display.set_mode((SCREEN_W, SCREEN_H+100))
     pygame.display.set_caption('Genuary2023 - DAY1 - Perfect Loop by C.Ponsard')
     global afraid
     img = pygame.image.load('day1_img/afraid.png').convert_alpha()
     afraid = pygame.transform.rotozoom(img, 0.0, 0.3)
+
+    happy = pygame.image.load('day1_img/happy.png').convert_alpha()
 
     # create background
     background = pygame.Surface(screen.get_size())
@@ -155,6 +157,7 @@ def main():
 
         background.fill((0, 0, 0))
         screen.blit(background, (0, 0))
+        screen.blit(happy, (15, SCREEN_H+15))
 
         color = (0, 0, 100)
         pygame.draw.rect(screen, color, pygame.Rect(SW+RW, (SCREEN_H-4*RW)/2+RW, SCREEN_W-2*(RW+SW), 2*RW))
@@ -171,7 +174,7 @@ def main():
             sprites[i].draw(screen)
             if not(pause): sprites[i].update()
 
-        pygame.image.save(screen,'day1_'+str(n)+'.png')
+        if (n<2000) pygame.image.save(screen,'TEMP/day1_'+str(n)+'.png')
         n=n+1
 
         pygame.display.flip()

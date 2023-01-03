@@ -14,6 +14,7 @@ SW = 76
 SPEED = 10
 P1 = 22
 P2 = 622
+RECORD = False
 
 hunt = False
 pause = False
@@ -174,11 +175,10 @@ def main():
             sprites[i].draw(screen)
             if not(pause): sprites[i].update()
 
-        if (n<2000) pygame.image.save(screen,'TEMP/day1_'+str(n)+'.png')
+        if RECORD and n<2000: pygame.image.save(screen,'TEMP/day1_'+str(n)+'.png')
         n=n+1
 
         pygame.display.flip()
-
 
 
 if __name__ == '__main__': main()

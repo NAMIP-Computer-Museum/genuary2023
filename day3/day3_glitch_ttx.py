@@ -1,11 +1,41 @@
-
-from datetime import datetime
+import copy
+from datetime import datetime, timedelta
 import os
 import pygame
+import random
 
 from day3_ttx_renderer import *
 from day3_test_pages import CeefaxEngtest, ETS300706Test, LoadEP1, LoadRaw
 
+CHARS='0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\()*+,-./:;'
+NGL = 2
+RECORD = True
+
+def analyse(page):
+    res = 0
+    for i in range(len(page)):
+        line = page[i]
+        for j in range(len(line)):
+            if chr(line[j]) in CHARS:
+                res = res+1
+    return res
+
+def change(gpos,page):
+    print("GPOS: "+str(gpos))
+    res = 0
+    for i in range(len(page)):
+        line = page[i]
+        for j in range(len(line)):
+            if chr(line[j]) in CHARS:
+#                print(chr(line[j]))
+                if res == gpos:
+                    bline=bytearray(line)
+                    r=random.randint(0,len(CHARS)-1)
+                    bline[j]=ord(CHARS[r])
+                    page[i]=bytes(bline)
+                    return
+                res = res + 1
+    return
 
 # Set to True to force rescaling of the image regardless of screen size
 # TODO - allow scaling to be set to NONE, FIT or STRETCH
@@ -30,8 +60,9 @@ PAGEDELAY = 10
 
 # page list
 pages = []
-pages.append([196, CeefaxEngtest()])
-pages.append([197, ETS300706Test()])
+# pages.append([196, CeefaxEngtest()])
+# pages.append([197, ETS300706Test()])
+pages.append([198, LoadRaw('pages/genuary.bin')])
 pages.append([198, LoadRaw('pages/P198-0001.bin')])
 pages.append([366, LoadRaw('pages/trudge.bin')])
 pages.append([535, LoadRaw('pages/SchedSat-001.bin')])
@@ -110,6 +141,9 @@ quit = False
 tick = 0
 pageidx = 0
 lasttick = 0
+pagelen = 0
+n= 0
+
 while not quit:
     lasttick = tick
     newpage = False
@@ -145,13 +179,26 @@ while not quit:
         now = datetime.now()
 
         page[0]  = b'  P%03d  ' % pagenumber            # decoder reserved (8 chars) -- requested page number
-        page[0] += b'\x04\x1d\x03Furcfax \x07\x1c '     # header bar
+        page[0] += b'\x04\x1d\x03NAM-IP \x07\x1c '     # header bar
         page[0] += b'%03d ' % pagenumber                 # page number
-        page[0] += bytes(now.strftime("%b%d"), 'ascii')     # date
+        sdate=now-timedelta(hours=6)
+        page[0] += bytes(sdate.strftime("%b%d"), 'ascii')     # date
         page[0] += b'\x03'      # yellow text for clock
-        page[0] += bytes(now.strftime("%H:%M/%S"), 'ascii') # time
+        page[0] += bytes(sdate.strftime("%H:%M/%S"), 'ascii') # time
+
+        print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
+        pagelen = analyse(page)
+        print("PRINTABLE "+str(pagelen))
 
         main,flash = vtr.render(page)
+
+    ## GLITCHES
+#    page[10] = b'\x04\x1d\x03TEST \x07\x1c '
+    for i in range(NGL):
+        gpos = random.randint(0,pagelen)
+#        dpage=copy.deepcopy(page)
+        change(gpos,page)
+        main, flash = vtr.render(page)
 
     ## --- flash display loop ---
 
@@ -170,6 +217,8 @@ while not quit:
         #pygame.image.save(flash, "teletext_new.png")
         #os.replace("teletext_new.png", "teletext.png")
 
+    if RECORD and n<2000: pygame.image.save(lcd,'TEMP/day3_'+str(n)+'.png')
+    n=n+1
 
 # shut down pygame on exit
 pygame.quit()

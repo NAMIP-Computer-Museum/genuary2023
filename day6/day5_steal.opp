@@ -1,0 +1,196 @@
+/*
+2023/01/01
+#genuary6 "Steal like an artist"
+cponsard
+inspired by @senbaku
+*/
+
+let mover = [];
+let num;
+let rnum;
+let points;
+let count = 3;
+let w;
+let blinky;
+let clyde;
+let inky;
+let pinky;
+
+function setup() {
+	rnum = random(100)
+	let sizes =min(windowWidth,windowHeight);
+	createCanvas(sizes, sizes);
+	angleMode(DEGREES);
+	w = sizes/ count;
+	let radius = w/2;
+	points = 4;
+	num = 360 / points;
+
+	for (let i = 0; i < 360; i += num) {
+		for (let j = 0; j < points; j++) {
+			let ex = radius * sin(i * j);
+			let ey = radius * cos(i * j);
+			let ex2 = radius * sin(i * (j + 1));
+			let ey2 = radius * cos(i * (j + 1));
+			mover[j] = new Mover(ex, ey, ex2, ey2, radius, j);
+		}
+	}
+	//rain texture
+	pg = createGraphics(width, height);
+	pg.noFill();
+	for (let i = 0; i < 150; i++) {
+		let x = random(width);
+		let y = random(height);
+		let n = noise(x * 0.01, y * 0.01) * width * 0.01;
+		pg.stroke("#FF0");
+		pg.fill("#FF0");
+//		pg.line(x, y, x, y + n);
+		pg.circle(x,y, 2+n*2);
+	}
+
+	// images
+  blinky = loadImage("blinky.png");
+  clyde  = loadImage("clyde.png");
+  inky = loadImage("inky.png");
+  pinky  = loadImage("pinky.png");
+
+	frame=0
+}
+
+function draw() {
+	background(51);
+	image(pg,0,0);
+	randomSeed(rnum);
+	tile();
+}
+
+function tile() {
+	for (var i = count+count*0.5; i >  0; i--) {
+		for (var j = count+count*0.1; j > 0; j--) {
+			shape(i * w, j * w, w*0.5);
+		}
+	}
+}
+
+function shape(x, y) {
+	push();
+	translate(x, y);
+	for (let j = 0; j < points; j++) {
+		mover[j].show();
+		mover[j].update();
+		mover[j].check();
+	}
+	pop();
+}
+
+class Mover {
+	constructor(x, y, nx, ny, r, j) {
+		this.radius = r;
+		this.x = x;
+		this.y = y;
+		this.nx = nx;
+		this.ny = ny;
+		this.pos1 = createVector(this.x, this.y);
+		this.pos2 = createVector(this.nx, this.ny);
+		this.vel = createVector(0.1, 0);
+		this.vel.mult(0.01);
+		this.acc = createVector(0, 0);
+		this.acc.setMag(0.01);
+		this.j = j;
+	}
+
+	update() {
+		this.acc = p5.Vector.sub(this.pos2, this.pos1);
+		this.d = int(dist(this.pos2.x, this.pos2.y, this.pos1.x, this.pos1.y));
+		let length = map(this.d*1.5, 0, this.radius, 0, 10, true);
+		this.vel.add(this.acc);
+		this.vel.limit(length / 50);
+		this.pos1.add(this.vel);
+	}
+
+	show() {
+		noStroke();
+		let eyecol = color('#594f4f');
+		let ghostsize = this.radius*1.5;
+		let ghostcol = color(map(this.pos1.y, -this.radius, this.radius, 51, 255));
+
+		ghost(this.pos1.x, this.pos1.y, ghostsize, ghostcol, this.j);
+
+/*
+		if (this.j == 0) {
+			ghost(this.pos1.x, this.pos1.y, ghostsize, ghostcol);
+//			fill(eyecol);
+//			ellipse(this.pos1.x - ghostsize * 0.13, this.pos1.y - ghostsize * 0.1, ghostsize * 0.04);
+		}
+		if (this.j == 1) {
+			ghost2(this.pos1.x, this.pos1.y, ghostsize, ghostcol);
+//			fill(eyecol)
+//			ellipse(this.pos1.x + ghostsize * 0.13, this.pos1.y - ghostsize * 0.1, ghostsize * 0.04);
+		}
+		if (this.j == 2) {
+			ghost(this.pos1.x, this.pos1.y, ghostsize, ghostcol);
+//			fill(eyecol)
+//			ellipse(this.pos1.x + ghostsize * 0.13, this.pos1.y - ghostsize * 0.1, ghostsize * 0.04);
+//			ellipse(this.pos1.x, this.pos1.y - ghostsize * 0.1, ghostsize * 0.04);
+		}
+		if (this.j == 3) {
+			ghost(this.pos1.x, this.pos1.y, ghostsize, ghostcol);
+//			fill(eyecol)
+//			ellipse(this.pos1.x - ghostsize * 0.13, this.pos1.y - ghostsize * 0.1, ghostsize * 0.04);
+//			ellipse(this.pos1.x, this.pos1.y - ghostsize * 0.1, ghostsize * 0.04);
+		}
+*/
+	}
+
+	check() {
+		let distance = this.pos1.dist(this.pos2);
+		if (distance < 1.5) {
+			this.pos1.x = this.x;
+			this.pos1.y = this.y;
+			this.j=(this.j+3)%4;
+		}
+	}
+}
+
+function ghost(x, y, w, ghostcol, type) {
+	push();
+	if (type%2==0) {
+		translate(x, y);
+		scale(0.5,0.5);
+	}
+	if (type%2==1) {
+		translate(x+120, y);
+		scale(-0.5,0.5);
+	}
+	if (type==0) image(blinky,0,0);
+  if (type==1) image(clyde,0,0);
+	if (type==2) image(inky,0,0);
+  if (type==3) image(pinky,0,0);
+	pop();
+}
+
+function ghost2(x, y, w, ghostcol) {
+	let size = 5;
+	let hW = w / size;
+	let hH = w / (size - 1);
+	let susonum = 3
+	noStroke();
+	push();
+	//oscillation------
+
+	translate(x, y);
+	push();
+	fill(ghostcol);
+	beginShape();
+	vertex(hW, 0);
+	bezierVertex(hW * 1.1, -hH * 1.35, -hW * 1.1, -hH * 1.35, -hW, 0);
+	vertex(-hW, hH);
+	for (let i = -hW; i < hW + 1; i += 1) {
+		let y = hH + hH / 10 * sin(i * susonum * 360/ (hW * 2) - 90);
+		vertex(i, y);
+	}
+	vertex(hW, 0);
+	endShape();
+	pop();
+	pop();
+}

@@ -1,0 +1,51 @@
+{
+  "description": "Rain & Cafe Mix",
+  "banner": "      )  (\n     (   ) )\n      ) ( (\n mrf_______)_\n .-'---------|  \n( C|/\\/\\/\\/\\/|\n '-./\\/\\/\\/\\/|\n   '_________'\n    '-------'",
+  "sounds": {
+    "sinking_loop": "mixkit-sinking-in-the-sea-1178.wav",
+    "diving_loop": "mixkit-diving-sea-ambience-1205.wav",
+    "drill_alert": "mixkit-sci-fi-drill-alert-760.wav",
+    "warning_notif": "mixkit-game-warning-quick-notification-267.wav",
+    "positive_notif": "mixkit-sci-fi-positive-notification-266.wav",
+    "retro_notif": "mixkit-retro-sci-fi-game-notification-242.wav",
+    "robot_sweep": "mixkit-futuristic-robotic-fast-sweep-171.wav"
+  },
+  "_sounds": "sound name to file reference",
+  "global_volume": 1.0,
+  "_global_volume": "Multiply vol by this number for loops and random sounds",
+  "channels": 15,
+  "_channels": "total number of things that can play at one time",
+  "loop": [
+    {
+      "sound": "diving_loop",
+      "vol": 0.6
+    }
+  ],
+  "_loop": "all these sounds will be looped with given volume",
+  "randomly_pick_and_play": [
+    {
+      "sound": "drill_alert",
+      "vol": 0.1
+    },
+    {
+      "sound": "warning_notif",
+      "vol": 0.1
+    },
+    {
+      "sound": "positive_notif",
+      "vol": 0.1
+    },
+    {
+      "sound": "retro_notif",
+      "vol": 0.1
+    },
+    {
+      "sound": "robot_sweep",
+      "vol": 0.1
+    }
+  ],
+  "_randomly_pick_and_play": "all these sound files will be played at random intervals",
+  "random_pick_start_on_seconds": 10,
+  "random_pick_seconds_min": 10,
+  "random_pick_seconds_max": 30
+}

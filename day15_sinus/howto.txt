@@ -1,0 +1,26 @@
+this demo requires  BOSS basic compiler for commodore 64 to run at decent speed
+
+first need to compile to normal prg using
+petcat -w2 -o DEMO2.PRG -- <text source file
+this will also convert embedded petschii !
+
+resulting can be loaded in vice or CD64 using
+LOAD"DEMO2.PRG",8
+but very very slow
+
+compiling to ASM using BOSS result in significant speed up !
+cross compiler for windows available at:
+https://csdb.dk/release/?id=103888
+(original was on C64 but easier from windows)
+bbcompiler.exe DEMO2.PRG +DEMO2.PRG
+then load in binary
+LOAD"+DEMO2.PRG",8,1
+(+ symbol is convention to mark compiled basic)
+
+more info:
+- pokes: https://sta.c64.org/cbm64mem.html
+- tok64 (obsolete, requires dosbox: petcat better): https://github.com/thezerobit/tok64
+- wave one liner: https://www.youtube.com/watch?v=0yKwJJw6Abs
+- petschii table: https://sta.c64.org/cbm64petkey.html
+- BOSS demo (and also blitz) https://www.youtube.com/watch?v=MQGD9k4K3Eo
+

@@ -1,4 +1,5 @@
 this demo requires  BOSS basic compiler for commodore 64 to run at decent speed
+it is adapted from the boss demo bundled with the product (back in 1988)
 
 first need to compile to normal prg using
 petcat -w2 -o DEMO2.PRG -- <text source file
@@ -16,6 +17,10 @@ bbcompiler.exe DEMO2.PRG +DEMO2.PRG
 then load in binary
 LOAD"+DEMO2.PRG",8,1
 (+ symbol is convention to mark compiled basic)
+
+after load, type
+RUN
+and then 2 (this is the second demo, code was not cleaned)
 
 more info:
 - pokes: https://sta.c64.org/cbm64mem.html

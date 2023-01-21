@@ -1,6 +1,8 @@
 """
 Genuary2022 Day 21 - Rug Generator by C. Ponsard
 Free under the terms of GPLv3 license
+
+see https://books.google.be/books?id=NuFeW8N2hlkC&pg=PA340&lpg=PA340&dq=oriental+rug+simple+algo
 """
 
 import os, sys, random
@@ -11,7 +13,7 @@ from pygame import Color as col
 import numpy as np
 
 # Constants
-SCREEN_W, SCREEN_H = (600, 800)
+SCREEN_W, SCREEN_H = (800, 600)
 # N = 129
 COL= [ col("darkred"), col("firebrick"), col("crimson"),col("firebrick4"),col("brown"),col("yellow"),col("red3"), col("gold"),
        col("red"), col("chocolate4"), col("white"),col("orange"),col("orangered"),col("red"),col("sienna"), col("tomato3") ]

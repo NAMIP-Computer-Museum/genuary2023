@@ -25,16 +25,15 @@ See complete material in results subdirectory
 
 ### Day 4 - Intersections
 
+<img src="results/intersections.png" width="600"/>
+
 ### Day 5 - Debug view
 
 <img src="results/day5_glitch_3D.png" width="600"/>
 
 ### Day 6 - Steal like an artist
 
-<video width="600" controls>
-<source src="results/day6_steal.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<img src="results/day6_steal.png" width="600"/>
 
 ### Day 7 - Sample a color palette from your favorite movie/album cover
 

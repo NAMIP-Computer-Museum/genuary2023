@@ -31,6 +31,11 @@ See complete material in results subdirectory
 
 ### Day 6 - Steal like an artist
 
+<video width="600" controls>
+<source src="results/day6_steal.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### Day 7 - Sample a color palette from your favorite movie/album cover
 
 ### Day 8 - Signed Distance Functions

@@ -49,9 +49,37 @@ See complete material (video versions) in the results subdirectory
 
 ### Day 13 - Something you’ve always wanted to learn
 
+### Day 14 - Aesemic
+
+### Day 15 - Sine waves
+
+### Day 16 - Reflection of a reflection
+
+### Day 17 - A grid inside a grid inside a grid
+
+### Day 18 - Definitely not a grid
+
+### Day 19 - Black and white
+
+### Day 20 - Art Deco
+
+### Day 21 - Persian Rug
+
+### Day 22 - Shadows
+
+### Day 23 - More Moiré
+
+### Day 24 - Textile
+
 ### Day 25 - Yayoi Kusama
 
 <img src="results/day25_Kusama_.png " width="600" height="600"/>
+
+### Day 26 - My kid could have made that
+
+### Day 27 - In the style of Hilma Af Klint
+
+### Day 28 - Generative poetry
 
 ### Day 29 - Maximalism
 
@@ -61,4 +89,6 @@ See complete material (video versions) in the results subdirectory
 
 <img src="results/day30_minimalism.png" width="600"/>
 
+### Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it.
 
+Alternatively, remix one of your previous works.

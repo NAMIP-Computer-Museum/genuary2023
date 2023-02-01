@@ -25,7 +25,7 @@ See complete material in results subdirectory
 
 ### Day 4 - Intersections
 
-<img src="results/intersections.png" width="600"/>
+<img src="results/day4_intersections.png" width="600"/>
 
 ### Day 5 - Debug view
 

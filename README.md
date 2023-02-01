@@ -11,22 +11,23 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 See complete material in results subdirectory
 
-### Day 1 - Perfect Loop 
-![](results/day1-loop-V1.gif | width=400)
+### Day 1 - Perfect Loop
+
+<img src="results/day1-loop-V1.gif" width="600"/>
 
 ### Day 2 - Made in 10 minutes
 
-![](results/day2.png | width=400)
+<img src="results/day2.png" width="600"/>
 
 ### Day 3 - Glitch Art
 
-![](results/day3_ttx_glitches.gif | width=400)
+<img src="results/day3_ttx_glitches.gif" width="600"/>
 
 ### Day 4 - Intersections
 
 ### Day 5 - Debug view
 
-![](results/day5_glitch_3D.png | width=400)
+<img src="results/day5_glitch_3D.png" width="600"/>
 
 ### Day 6 - Steal like an artist
 
@@ -46,15 +47,14 @@ See complete material in results subdirectory
 
 ### Day 25 - Yayoi Kusama
 
-![](results/day25_Kusama_.png | width=400)
+<img src="results/day25_Kusama_.png " width="600"/>
 
 ### Day 29 - Maximalism
 
-![](results/day29_bobhome.png | width=400)
+<img src="results/day29_bobhome.png" width="600"/>
 
 ### Day 30 - Minimalism
 
-<img src="results/day30_minimalism.png" width="400"/>
+<img src="results/day30_minimalism.png" width="600"/>
 
-![](results/day30_minimalism.png | width=400)
 

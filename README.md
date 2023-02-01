@@ -9,7 +9,7 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ## Gallery
 
-See complete material in results subdirectory
+See complete material (video versions) in the results subdirectory
 
 ### Day 1 - Perfect Loop
 

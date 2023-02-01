@@ -18,13 +18,13 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ### Day 3 - Glitch Art
 
-![](results/dday3_ttx_glitches.gif)
+![](results/day3_ttx_glitches.gif)
 
 ### Day 4 - Intersections
 
 ### Day 5 - Debug view
 
-![](results/dday5_glitch_3D.png)
+![](results/day5_glitch_3D.png)
 
 ### Day 6 - Steal like an artist
 
@@ -42,4 +42,15 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ### Day 13 - Something you’ve always wanted to learn
 
+### Day 25 - Yayoi Kusama
+
+![](results/day25_Kusama_.png)
+
+### Day 29 - Maximalism
+
+![](results/day29_bobhome.png)
+
+### Day 30 - Minimalism
+
+![](results/day30_minimalism.png)
 

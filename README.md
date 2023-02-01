@@ -21,7 +21,7 @@ See complete material in results subdirectory
 
 ### Day 3 - Glitch Art
 
-<img src="results/day3_ttx_glitches.gif" width="600"/>
+<img src="results/day3_ttx_glitches.gif" width="600" height="auto" />
 
 ### Day 4 - Intersections
 

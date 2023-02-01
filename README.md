@@ -21,7 +21,7 @@ See complete material in results subdirectory
 
 ### Day 3 - Glitch Art
 
-<img src="results/day3_ttx_glitches.gif" width="600" height="auto" />
+<img src="results/day3_ttx_glitches.gif" width="600" height="400" />
 
 ### Day 4 - Intersections
 
@@ -47,7 +47,7 @@ See complete material in results subdirectory
 
 ### Day 25 - Yayoi Kusama
 
-<img src="results/day25_Kusama_.png " width="600"/>
+<img src="results/day25_Kusama_.png " width="600" height="400"/>
 
 ### Day 29 - Maximalism
 

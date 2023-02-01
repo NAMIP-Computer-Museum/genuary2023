@@ -7,7 +7,7 @@ see on Twitter: #genuary2023 @computerMusemB https://twitter.com/search?q=%23gen
 
 Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL), Scratch
 
-## Galler
+## Gallery
 
 See complete material in results subdirectory
 
@@ -53,6 +53,8 @@ See complete material in results subdirectory
 ![](results/day29_bobhome.png | width=400)
 
 ### Day 30 - Minimalism
+
+<img src="results/day30_minimalism.png" width="400"/>
 
 ![](results/day30_minimalism.png | width=400)
 

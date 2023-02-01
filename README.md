@@ -16,9 +16,30 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ![](results/day2.png)
 
-### Day 3 - Glitches
+### Day 3 - Glitch Art
 
 ![](results/dday3_ttx_glitches.gif)
 
-### Day 4 - 
+### Day 4 - Intersections
+
+### Day 5 - Debug view
+
+![](results/dday5_glitch_3D.png)
+
+### Day 6 - Steal like an artist
+
+### Day 7 - Sample a color palette from your favorite movie/album cover
+
+### Day 8 - Signed Distance Functions
+
+### Day 9 - Plants
+
+### Day 10 - Generative Music
+
+### Day 11 - Suprematism
+
+### Day 12 - Tessallation
+
+### Day 13 - Something you’ve always wanted to learn
+
 

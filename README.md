@@ -47,7 +47,7 @@ See complete material in results subdirectory
 
 ### Day 25 - Yayoi Kusama
 
-<img src="results/day25_Kusama_.png " width="600" height="400"/>
+<img src="results/day25_Kusama_.png " width="600" height="600"/>
 
 ### Day 29 - Maximalism
 

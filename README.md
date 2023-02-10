@@ -37,7 +37,7 @@ See complete material (video versions) in the results subdirectory
 
 ### Day 7 - Sample a color palette from your favorite movie/album cover
 
-<img src="results/day7_palette.png" width="600"/>
+<img src="results/day7_palette.png" height="600"/>
 
 ### Day 8 - Signed Distance Functions
 

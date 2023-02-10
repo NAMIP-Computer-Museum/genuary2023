@@ -9,7 +9,7 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ## Gallery
 
-See complete material in results subdirectory
+See complete material (video versions) in the results subdirectory
 
 ### Day 1 - Perfect Loop
 
@@ -25,16 +25,15 @@ See complete material in results subdirectory
 
 ### Day 4 - Intersections
 
+<img src="results/day4_intersections.png" width="600"/>
+
 ### Day 5 - Debug view
 
 <img src="results/day5_glitch_3D.png" width="600"/>
 
 ### Day 6 - Steal like an artist
 
-<video width="600" controls>
-<source src="results/day6_steal.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<img src="results/day6_steal.png" width="600"/>
 
 ### Day 7 - Sample a color palette from your favorite movie/album cover
 
@@ -50,9 +49,37 @@ Your browser does not support the video tag.
 
 ### Day 13 - Something you’ve always wanted to learn
 
+### Day 14 - Aesemic
+
+### Day 15 - Sine waves
+
+### Day 16 - Reflection of a reflection
+
+### Day 17 - A grid inside a grid inside a grid
+
+### Day 18 - Definitely not a grid
+
+### Day 19 - Black and white
+
+### Day 20 - Art Deco
+
+### Day 21 - Persian Rug
+
+### Day 22 - Shadows
+
+### Day 23 - More Moiré
+
+### Day 24 - Textile
+
 ### Day 25 - Yayoi Kusama
 
 <img src="results/day25_Kusama_.png " width="600" height="600"/>
+
+### Day 26 - My kid could have made that
+
+### Day 27 - In the style of Hilma Af Klint
+
+### Day 28 - Generative poetry
 
 ### Day 29 - Maximalism
 
@@ -62,4 +89,6 @@ Your browser does not support the video tag.
 
 <img src="results/day30_minimalism.png" width="600"/>
 
+### Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it.
 
+Alternatively, remix one of your previous works.

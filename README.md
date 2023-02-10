@@ -37,15 +37,27 @@ See complete material (video versions) in the results subdirectory
 
 ### Day 7 - Sample a color palette from your favorite movie/album cover
 
+<img src="results/day7_palette.png" width="600"/>
+
 ### Day 8 - Signed Distance Functions
+
+<img src="results/day8.jpg" width="600"/>
 
 ### Day 9 - Plants
 
+<img src="results/day9.jpg" width="600"/>
+
 ### Day 10 - Generative Music
+
+<img src="results/day10.png" width="600"/>
 
 ### Day 11 - Suprematism
 
+<img src="results/day11.png" width="600"/>
+
 ### Day 12 - Tessallation
+
+<img src="results/day12.png" width="600"/>
 
 ### Day 13 - Something you’ve always wanted to learn
 

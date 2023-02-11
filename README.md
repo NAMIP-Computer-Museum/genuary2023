@@ -15,17 +15,17 @@ See complete material (video versions) in the results subdirectory. Click to see
 <tr> 
   <td><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </td>
   <td><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </td>
-  <td><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="400" /> </td>
+  <td><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>
 </tr>
 <tr>
-  <td><b>Day 4 - Intersections</b> <br/><img src="results/day4_intersections.png" width="300"/> </td>
-  <td><b>Day 5 - Debug view</b> <br/><img src="results/day5_glitch_3D.png" width="300"/> </td>
-  <td><b>Day 6 - Steal like an artist</b> <br/><img src="results/day6_steal.png" width="300"/> </td>
+  <td><b>Day 4 - Intersections</b> <br/> <a href="results/day4_intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
+  <td><b>Day 5 - Debug view</b> <br/> <a href="results/day5_glitch_3D.mp4"><img src="results/day5_glitch_3D.png" width="300"/></a> </td>
+  <td><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </td>
 </tr>
 <tr>
-  <td><b>Day 7 - Sample a color palette from your favorite movie/album cover</b> <br/><img src="results/day4_intersections.png" width="300"/> </td>
-  <td><b>Day 8 - Signed Distance Functions/b> <br/><img src="results/day5_glitch_3D.png" width="300"/> </td>
-  <td><b>Day 9 - Plants</b> <br/><img src="results/day6_steal.png" width="300"/> </td>
+  <td><b>Day 7 - Sample a color palette from your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" width="300"/> </td>
+  <td><b>Day 8 - Signed Distance Functions/b> <br/><img src="results/day8.jpg" width="300"/> </td>
+  <td><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </td>
 </tr>
  <tr>
   <td><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/> </td>

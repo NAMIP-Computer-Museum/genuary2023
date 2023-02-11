@@ -11,6 +11,10 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 See complete material (video versions) in the results subdirectory. Click to see video (when available)
 
+<!-- IMAGE-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
 <source src="https://raw.githubusercontent.com/cponsard/genuary2023/main/results/day12-truchet.mp4" type="video/mp4">
 </video>
@@ -81,3 +85,8 @@ TEST
 </tr>
 </tbody>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- IMAGE-LIST:END -->

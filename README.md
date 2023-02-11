@@ -24,10 +24,11 @@ See complete material (video versions) in the results subdirectory. Click to see
 XXXX
 
 <table>
+<tbody>
 <tr>
-  <td style="vertical-align: top;"><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </td>
-  <td style="vertical-align: top;"><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </td>
-  <td style="vertical-align: top;"><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>
+  <td align="center" valign="top"><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </td>
+  <td align="center" valign="top"><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </td>
+  <td align="center" valign="top"><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>
 </tr>
 <tr>
   <td><b>Day 4 - Intersections</b> <br/> <a href="results/day4-intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
@@ -78,5 +79,6 @@ XXXX
   <td><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day10.png" width="300"/> </td>
   <td></td>
   <td></td>
-</tr> 
+</tr>
+</tbody>
 </table>

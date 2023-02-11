@@ -35,6 +35,10 @@ XXXX
   <td><b>Day 5 - Debug view</b> <br/> <a href="results/day5_glitch_3D.mp4"><img src="results/day5_glitch_3D.png" width="300"/></a> </td>
   <td><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </td>
 </tr>
+</tbody>
+</table>
+  
+<table>
 <tr>
   <td><b>Day 7 - Sample a color palette from your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" width="300"/> </td>
   <td><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/> </td>

@@ -18,7 +18,7 @@ See complete material (video versions) in the results subdirectory. Click to see
   <td><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>
 </tr>
 <tr>
-  <td><b>Day 4 - Intersections</b> <br/> <a href="results/day4_intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
+  <td><b>Day 4 - Intersections</b> <br/> <a href="results/day4-intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
   <td><b>Day 5 - Debug view</b> <br/> <a href="results/day5_glitch_3D.mp4"><img src="results/day5_glitch_3D.png" width="300"/></a> </td>
   <td><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </td>
 </tr>
@@ -31,85 +31,40 @@ See complete material (video versions) in the results subdirectory. Click to see
   <td><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/> </td>
   <td><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </td>
   <td><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </td>
+</tr>
+   <tr>
+  <td><b>Day 13 - Something you’ve always wanted to learn</b> <br/><img src="results/day10.png" width="300"/> </td>
+  <td><b>Day 14 - Aesemic</b> <br/><img src="results/day11.png" width="300"/> </td>
+  <td><b>Day 15 - Sine waves</b> <br/><img src="results/day12.png" width="300"/> </td>
+</tr> 
+   <tr>
+  <td><b>Day 16 - Reflection of a reflection</b> <br/><img src="results/day10.png" width="300"/> </td>
+  <td><b>Day 17 - A grid inside a grid inside a grid</b> <br/><img src="results/day11.png" width="300"/> </td>
+  <td><b>Day 18 - Definitely not a grid</b> <br/><img src="results/day12.png" width="300"/> </td>
+</tr> 
+<tr>
+  <td><b>Day 19 - Black and white</b> <br/><img src="results/day10.png" width="300"/> </td>
+  <td><b>Day 20 - Art Deco</b> <br/><img src="results/day11.png" width="300"/> </td>
+  <td><b>Day 21 - Persian Rug</b> <br/><img src="results/day12.png" width="300"/> </td>
+</tr>
+<tr>
+  <td><b>Day 22 - Shadows</b> <br/><img src="results/day10.png" width="300"/> </td>
+  <td><b>Day 23 - More Moiré</b> <br/><img src="results/day11.png" width="300"/> </td>
+  <td><b>Day 24 - Textile</b> <br/><img src="results/day12.png" width="300"/> </td>
+</tr> 
+<tr>
+  <td><b>Day 25 - Yayoi Kusama</b> <br/><img src="results/day25_Kusama_.png" width="300"/> </td>
+  <td><b>Day 26 - My kid could have made that</b> <br/><img src="results/day11.png" width="300"/> </td>
+  <td><b>Day 27 - In the style of Hilma Af Klint</b> <br/><img src="results/day12.png" width="300"/> </td>
+</tr> 
+<tr>
+  <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day10.png" width="300"/> </td>
+  <td><b>Day 29 - Maximalism</b> <br/><img src="results/day29_bobhome.png" width="300"/> </td>
+  <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </td>
+</tr> 
+ <tr>
+  <td><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day10.png" width="300"/> </td>
+  <td></td>
+  <td></td>
 </tr> 
 </table>
-
-
-
-### Day 5 - Debug view
-
-<img src="results/day5_glitch_3D.png" width="600"/>
-
-### Day 6 - Steal like an artist
-
-<img src="results/day6_steal.png" width="600"/>
-
-### Day 7 - Sample a color palette from your favorite movie/album cover
-
-<img src="results/day7_palette.png" height="600"/>
-
-### Day 8 - Signed Distance Functions
-
-<img src="results/day8.jpg" width="600"/>
-
-### Day 9 - Plants
-
-<img src="results/day9.jpg" width="600"/>
-
-### Day 10 - Generative Music
-
-<img src="results/day10.png" width="600"/>
-
-### Day 11 - Suprematism
-
-<img src="results/day11.png" width="600"/>
-
-### Day 12 - Tessallation
-
-<img src="results/day12.png" width="600"/>
-
-### Day 13 - Something you’ve always wanted to learn
-
-### Day 14 - Aesemic
-
-### Day 15 - Sine waves
-
-### Day 16 - Reflection of a reflection
-
-### Day 17 - A grid inside a grid inside a grid
-
-### Day 18 - Definitely not a grid
-
-### Day 19 - Black and white
-
-### Day 20 - Art Deco
-
-### Day 21 - Persian Rug
-
-### Day 22 - Shadows
-
-### Day 23 - More Moiré
-
-### Day 24 - Textile
-
-### Day 25 - Yayoi Kusama
-
-<img src="results/day25_Kusama_.png " width="600" height="600"/>
-
-### Day 26 - My kid could have made that
-
-### Day 27 - In the style of Hilma Af Klint
-
-### Day 28 - Generative poetry
-
-### Day 29 - Maximalism
-
-<img src="results/day29_bobhome.png" width="600"/>
-
-### Day 30 - Minimalism
-
-<img src="results/day30_minimalism.png" width="600"/>
-
-### Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it.
-
-Alternatively, remix one of your previous works.

@@ -14,9 +14,9 @@ See complete material (video versions) in the results subdirectory. Click to see
 <table>
 <tbody>
 <tr> 
-  <td align="center"><img class="img" src="results/day1-loop-V1.gif" style="vertical-align:top;" width="350" /><br /><sub><b>Day 1 - Perfect GIF Loop</b></sub></a></td>
-  <td align="center"><img class="img" src="results/day2.png" style="vertical-align:top;" width="350"/><br /><sub><b>Day 2 - Made in 10 minutes</b></sub></a></td>
-  <td align="center"><img class="img" src="results/day3_ttx_glitches.gif" style="vertical-align:top;" width="350" /><br /><sub><b>Day 3 - Glitch Art</b></sub></a></td>
+  <td align="center"><img class="img" src="results/day1-loop-V1.gif" style="vertical-align:top;" width="300" /><br /><sub><b>Day 1 - Perfect GIF Loop</b></sub></a></td>
+  <td align="center"><img class="img" src="results/day2.png" style="vertical-align:top;" width="300"/><br /><sub><b>Day 2 - Made in 10 minutes</b></sub></a></td>
+  <td align="center"><img class="img" src="results/day3_ttx_glitches.gif" style="vertical-align:top;" width="300" /><br /><sub><b>Day 3 - Glitch Art</b></sub></a></td>
 </tr>
 </tbody
 </table>

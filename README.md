@@ -19,7 +19,9 @@ See complete material (video versions) in the results subdirectory. Click to see
   <td align="center"><img class="img" src="results/day3_ttx_glitches.gif" style="vertical-align:top;" width="250" /><br /><sub><b>Day 3 - Glitch Art</b></sub></a></td>
 </tr>
 </tbody
-</table
+</table>
+
+XXXX
 
 <table>
 <tr>

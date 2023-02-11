@@ -24,7 +24,7 @@ See complete material (video versions) in the results subdirectory. Click to see
   <td align="center" valign="top"><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </td>
 </tr>
 <tr>
-  <td align="center" valign="top"><b>Day 7 - Sample a color palette from your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" width="300"/> </td>
+  <td align="center" valign="top"><b>Day 7 - Sample a color palette from your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </td>
   <td align="center" valign="top"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/> </td>
   <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </td>
 </tr>

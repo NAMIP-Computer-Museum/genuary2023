@@ -11,7 +11,10 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 See complete material (video versions) in the results subdirectory. Click to see video (when available)
 
-[![Watch the video](results/day6_steal.png)](results/day6_steal.mp4)
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://raw.githubusercontent.com/cponsard/genuary2023/main/results/day12-truchet.mp4" type="video/mp4">
+</video>
+
 
 <table>
 <tbody>

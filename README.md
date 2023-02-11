@@ -13,6 +13,7 @@ See complete material (video versions) in the results subdirectory. Click to see
 
 <table>
 <tr> 
+  <td align="center"><img class="img" src="assets/genuary01.jpg" style="vertical-align:top;" width="500" /><br /><sub><b>January 1<br/>Perfect GIF Loop</b></sub></a></td>
   <td style="vertical-align: top;"><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </td>
   <td style="vertical-align: top;"><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </td>
   <td style="vertical-align: top;"><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>

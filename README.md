@@ -15,11 +15,6 @@ See complete material (video versions) in the results subdirectory. Click to see
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://raw.githubusercontent.com/cponsard/genuary2023/main/results/day12-truchet.mp4" type="video/mp4">
-</video>
-
-
 <table>
 <tbody>
 <tr>
@@ -28,7 +23,7 @@ See complete material (video versions) in the results subdirectory. Click to see
   <td align="center" valign="top"><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>
 </tr>
 <tr>
-  <td align="center" valign="top"><b>Day 4 - Intersections</b> <br/> <a href="https://raw.githubusercontent.com/cponsard/genuary2023/main/results/day4-intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
+  <td align="center" valign="top"><b>Day 4 - Intersections</b> <br/> <a href="https://raw.githubusercontent.com/cponsard/genuary2023/main/results/day4-Intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
   <td align="center" valign="top"><b>Day 5 - Debug view</b> <br/> <a href="results/day5_glitch_3D.mp4"><img src="results/day5_glitch_3D.png" width="300"/></a> </td>
   <td align="center" valign="top"><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </td>
 </tr>

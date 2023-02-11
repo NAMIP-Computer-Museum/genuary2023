@@ -11,8 +11,16 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 See complete material (video versions) in the results subdirectory. Click to see video (when available)
 
-| ### Day 1 - Perfect Loop <img src="results/day1-loop-V1.gif" width="300"/>  | ### Day 2 - Made in 10 minutes <img src="results/day2.png" width="300"/> |
-| ### Day 3 - Glitch Art <img src="results/day3_ttx_glitches.gif" width="600" height="400" /> | ### Day 4 - Intersections <img src="results/day4_intersections.png" width="600"/> |
+<table>
+<tr> 
+  <td>### Day 1 - Perfect Loop <br/> <img src="results/day1-loop-V1.gif" width="300"/> </td>
+  <td>### Day 2 - Made in 10 minutes <img src="results/day2.png" width="300"/> </td>
+</tr>
+<tr>   
+  <td>### Day 3 - Glitch Art <br/><img src="results/day3_ttx_glitches.gif" width="600" height="400" /> </td>
+  <td>### Day 4 - Intersections <br/><img src="results/day4_intersections.png" width="600"/> </td>
+</tr>
+</table>
 
 ### Day 5 - Debug view
 

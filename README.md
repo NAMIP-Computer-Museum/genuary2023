@@ -57,27 +57,23 @@ See complete material (video versions) in the results subdirectory. A Youtube li
   <td><b>Day 23 - More Moiré</b> <br/><img src="results/day23.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/cUxKe6WqMbE">VIDEO</a></td>
   <td><b>Day 24 - Textile</b> <br/><img src="results/day24.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/LwBDkXKq9gA">VIDEO</a></td>
 </tr> 
-</tbody>
-</table>
-
-<table>
 <tr>
-  <td><b>Day 25 - Yayoi Kusama</b> <br/><img src="results/day25_Kusama_.png" width="300"/> </td>
-  <td><b>Day 26 - My kid could have made that</b> <br/><img src="results/day11.png" width="300"/> </td>
-  <td><b>Day 27 - In the style of Hilma Af Klint</b> <br/><img src="results/day12.png" width="300"/> </td>
+  <td><b>Day 25 - Yayoi Kusama</b> <br/><img src="results/day25_Kusama_.png" width="300"/> </br>Lgge: P5JS</td>
+  <td><b>Day 26 - My kid could have made that</b> <br/><img src="results/day26.jpg" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/6Lftylo-zNg">VIDEO</a></td>
+  <td><b>Day 27 - In the style of Hilma Af Klint</b> <br/><img src="results/day27.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/H5PGB4Achcw">VIDEO</a></td>
 </tr> 
 <tr>
-  <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day10.png" width="300"/> </td>
+  <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day28.png" width="300"/> </td> </br>Lgge: P5JS - <a href="https://youtu.be/cvr9ywmQVmg">VIDEO</a></td>
   <td><b>Day 29 - Maximalism</b> <br/><img src="results/day29_bobhome.png" width="300"/> </td>
   <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </td>
 </tr> 
- <tr>
-  <td><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day10.png" width="300"/> </td>
-  <td></td>
-  <td></td>
+<tr>
+  <td width="100%"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day10.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
 </tr>
 </tbody>
 </table>
+
+https://youtu.be/6Lftylo-zNg 
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

@@ -48,7 +48,7 @@ See complete material (video versions) in the results subdirectory. A Youtube li
   <td><b>Day 18 - Definitely not a grid</b> <br/><img src="results/day18.jpg" width="300"/> </br>Lgge: Neo4J - <a href="https://youtu.be/1kyGTxODXVs">VIDEO</a></td>
 </tr>
 <tr>
-  <td><b>Day 19 - Black and white</b> <br/><img src="results/day19.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/98-n4ezaltc">VIDEO</a></td>
+  <td><b>Day 19 - Black and white</b> <br/><img src="results/day19.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/2B3URvTcA">P5JS</a> - <a href="https://youtu.be/98-n4ezaltc">VIDEO</a></td>
   <td><b>Day 20 - Art Deco</b> <br/><img src="results/day20.jpg" width="300"/> </br>Minecraft - <a href="https://youtu.be/QrrMyiQsGo8">VIDEO</a></td>
   <td><b>Day 21 - Persian Rug</b> <br/><img src="results/day21.png" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/ailarL3zwjk">VIDEO</a></td>
 </tr>
@@ -60,20 +60,18 @@ See complete material (video versions) in the results subdirectory. A Youtube li
 <tr>
   <td><b>Day 25 - Yayoi Kusama</b> <br/><img src="results/day25_Kusama_.png" width="300"/> </br>Lgge: P5JS</td>
   <td><b>Day 26 - My kid could have made that</b> <br/><img src="results/day26.jpg" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/6Lftylo-zNg">VIDEO</a></td>
-  <td><b>Day 27 - In the style of Hilma Af Klint</b> <br/><img src="results/day27.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/H5PGB4Achcw">VIDEO</a></td>
+  <td><b>Day 27 - In the style of Hilma Af Klint</b> <br/><img src="results/day27.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/9Ya6OvzEA">P5JS</a> - <a href="https://youtube.com/shorts/H5PGB4Achcw">VIDEO</a></td>
 </tr> 
 <tr>
-  <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day28.png" width="300"/> </td> </br>Lgge: P5JS - <a href="https://youtu.be/cvr9ywmQVmg">VIDEO</a></td>
+  <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day28.png" width="300"/> </td> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/lhDVz93fh">P5JS</a> - <a href="https://youtu.be/cvr9ywmQVmg">VIDEO</a></td>
   <td><b>Day 29 - Maximalism</b> <br/><img src="results/day29_bobhome.png" width="300"/> </td>
   <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </td>
 </tr> 
 <tr>
-  <td colspab="3"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day10.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
+  <td colspab="3"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day31.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
 </tr>
 </tbody>
 </table>
-
-https://youtu.be/6Lftylo-zNg 
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

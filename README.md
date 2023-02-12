@@ -9,44 +9,48 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ## Gallery
 
-See complete material (video versions) in the results subdirectory. Click to see video (when available)
+See complete material (video versions) in the results subdirectory. A Youtube link is available for most fays and a P5JS link when the code was in that language.
 
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://raw.githubusercontent.com/cponsard/genuary2023/main/results/day12-truchet.mp4" type="video/mp4">
-</video>
-
+<!-- IMAGE-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
 <table>
 <tbody>
 <tr>
-  <td align="center" valign="top"><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>
+  <td align="center" valign="top"><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </br>Lgge: Python</td>
+  <td align="center" valign="top"><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </br>Lgge: CPC Locomotive BASIC</td>
+  <td align="center" valign="top"><b>Day 3 - Glitch Art</b> <br/> <img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </br>Lgge: Python/teletext</td>
 </tr>
 <tr>
-  <td align="center" valign="top"><b>Day 4 - Intersections</b> <br/> <a href="results/day4-intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
-  <td align="center" valign="top"><b>Day 5 - Debug view</b> <br/> <a href="results/day5_glitch_3D.mp4"><img src="results/day5_glitch_3D.png" width="300"/></a> </td>
-  <td align="center" valign="top"><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </td>
+  <td align="center" valign="top"><b>Day 4 - Intersections</b> <br/> <img src="results/day4_intersections.png" width="300"/></a> </br>Lgge: Turbo Pascal/GDI - <a href="https://www.youtube.com/3yBQybKeCvg">VIDEO</a></td>
+  <td align="center" valign="top"><b>Day 5 - Debug view</b> <br/> <img src="results/day5_glitch_3D.png" width="300"/> </br>Lgge: OpenScad</td>
+  <td align="center" valign="top"><b>Day 6 - Steal like an artist</b> <br/> <img src="results/day6_steal.png" width="300"/> </br>Lgge: Python - <a href="https://www.youtube.com/shorts/igOCSb6lbYs">VIDEO</a></td>
 </tr>
 <tr>
-  <td align="center" valign="top"><b>Day 7 - Sample a color palette from your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </td>
-  <td align="center" valign="top"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </td>
+  <td align="center" valign="top"><b>Day 7 - Sample a color palette from<br/> your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </br>Lgge: Python - <a href="https://www.youtube.com/shorts/eS4xKI4oZtg">VIDEO</a> </td>
+  <td align="center" valign="top"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/></br>Lgge: shader - <a href="https://www.youtube.com/watch?v=I5P44xdhEm4">VIDEO</a> </td>
+  <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/rj--_LJQC1U">VIDEO</a></td>
 </tr>
- <tr>
-  <td align="center" valign="top"><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </td>
+<tr>
+  <td align="center" valign="top"><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/></br>Lgge: Python - <a href="https://youtu.be/EZGvFoNR0sI">VIDEO</a></td>
+  <td align="center" valign="top"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </br>Lgge: P5JS - <a href="https://www.youtube.com/shorts/Xr4ncWf0iEg">VIDEO</a></td>
+  <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </br>Lgge: P5JS - <a href="https://www.youtube.com/shorts/f7vcW4-Olso">VIDEO</a></td>
 </tr>
+<tr>
+  <td><b>Day 13 - Something you’ve always wanted to learn</b> <br/><img src="results/day13.png" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/Nqsrfxb7XnE ">VIDEO</a></td>
+  <td><b>Day 14 - Aesemic</b> <br/><img src="results/day14.png" width="300"/> </br>Lgge: CPC Locomotive BASIC - <a href="https://youtu.be/HsMdeRc4qus">VIDEO</a></td>
+  <td><b>Day 15 - Sine waves</b> <br/><img src="results/day15.png" width="300"/> </br>Lgge: C64 BASIC - <a href="https://youtu.be/vI5jI6qu2Hk ">VIDEO</a></td>
+</tr>
+<tr>
+  <td><b>Day 16 - Reflection of a reflection</b> <br/><img src="results/day16.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/JTlHhbH6JmU">VIDEO</a></td>
+  <td><b>Day 17 - A grid inside a grid inside a grid</b> <br/><img src="results/day17.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/VYuSfsjL76c">VIDEO</a></td>
+  <td><b>Day 18 - Definitely not a grid</b> <br/><img src="results/day18.png" width="300"/> </br>Lgge: Neo4J - <a href="https://youtu.be/1kyGTxODXVs">VIDEO</a></td>
+</tr> 
 </tbody>
 </table>
-  
+
 <table>
-   <tr>
-  <td><b>Day 13 - Something you’ve always wanted to learn</b> <br/><img src="results/day10.png" width="300"/> </td>
-  <td><b>Day 14 - Aesemic</b> <br/><img src="results/day11.png" width="300"/> </td>
-  <td><b>Day 15 - Sine waves</b> <br/><img src="results/day12.png" width="300"/> </td>
-</tr> 
    <tr>
   <td><b>Day 16 - Reflection of a reflection</b> <br/><img src="results/day10.png" width="300"/> </td>
   <td><b>Day 17 - A grid inside a grid inside a grid</b> <br/><img src="results/day11.png" width="300"/> </td>
@@ -79,3 +83,8 @@ See complete material (video versions) in the results subdirectory. Click to see
 </tr>
 </tbody>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- IMAGE-LIST:END -->

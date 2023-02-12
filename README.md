@@ -34,7 +34,7 @@ See complete material (video versions) in the results subdirectory. A Youtube li
 </tr>
 <tr>
   <td align="center" valign="top"><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/></br>Lgge: Python - <a href="https://youtu.be/EZGvFoNR0sI">VIDEO</a></td>
-  <td align="center" valign="top"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </br>Lgge: P5JS - <a href="https://www.youtube.com/shorts/Xr4ncWf0iEg">VIDEO</a></td>
+  <td align="center" valign="top"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/nqu61VEeN">P5JS</a> - <a href="https://www.youtube.com/shorts/Xr4ncWf0iEg">VIDEO</a></td>
   <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/qkiRiRUxP">P5JS</a> - <a href="https://www.youtube.com/shorts/f7vcW4-Olso">VIDEO</a></td>
 </tr>
 <tr>
@@ -59,11 +59,11 @@ See complete material (video versions) in the results subdirectory. A Youtube li
 </tr> 
 <tr>
   <td><b>Day 25 - Yayoi Kusama</b> <br/><img src="results/day25_Kusama_.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/ZjvrhmodU">P5JS</a></td>
-  <td><b>Day 26 - My kid could have made that</b> <br/><img src="results/day26.jpg" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/6Lftylo-zNg">VIDEO</a></td>
+  <td><b>Day 26 - My kid could have made that</b> <br/><img src="results/day26.jpg" width="300"/> </br>Lgge: <a href="https://scratch.mit.edu/projects/794437743/">Scratch</a> - <a href="https://youtu.be/6Lftylo-zNg">VIDEO</a></td>
   <td><b>Day 27 - In the style of Hilma Af Klint</b> <br/><img src="results/day27.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/9Ya6OvzEA">P5JS</a> - <a href="https://youtube.com/shorts/H5PGB4Achcw">VIDEO</a></td>
 </tr> 
 <tr>
-  <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day28.png" width="300"/> </td> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/lhDVz93fh">P5JS</a> - <a href="https://youtu.be/cvr9ywmQVmg">VIDEO</a></td>
+  <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day28.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/lhDVz93fh">P5JS</a> - <a href="https://youtu.be/cvr9ywmQVmg">VIDEO</a></td>
   <td><b>Day 29 - Maximalism</b> <br/><img src="results/day29_bobhome.png" width="300"/> </td>
   <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </td>
 </tr> 

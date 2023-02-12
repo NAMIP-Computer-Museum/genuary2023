@@ -53,7 +53,7 @@ See complete material (video versions) in the results subdirectory. A Youtube li
   <td><b>Day 21 - Persian Rug</b> <br/><img src="results/day21.png" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/ailarL3zwjk">VIDEO</a></td>
 </tr>
 <tr>
-  <td><b>Day 22 - Shadows</b> <br/><img src="results/day22.jpg" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/avU1mYSjhfg">VIDEO</a></td>
+  <td><b>Day 22 - Shadows</b> <br/><img src="results/day22.jpg" width="300"/> </br>Lgge: Three.js - <a href="https://youtu.be/avU1mYSjhfg">VIDEO</a></td>
   <td><b>Day 23 - More Moiré</b> <br/><img src="results/day23.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/85-NzBey1">P5JS</a> - <a href="https://youtube.com/shorts/cUxKe6WqMbE">VIDEO</a></td>
   <td><b>Day 24 - Textile</b> <br/><img src="results/day24.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/yrGzNhVM7d">P5JS</a> - <a href="https://youtube.com/shorts/LwBDkXKq9gA">VIDEO</a></td>
 </tr> 
@@ -64,11 +64,11 @@ See complete material (video versions) in the results subdirectory. A Youtube li
 </tr> 
 <tr>
   <td><b>Day 28 - Generative poetry</b> <br/><img src="results/day28.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/lhDVz93fh">P5JS</a> - <a href="https://youtu.be/cvr9ywmQVmg">VIDEO</a></td>
-  <td><b>Day 29 - Maximalism</b> <br/><img src="results/day29_bobhome.png" width="300"/> </td>
-  <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </td>
+  <td><b>Day 29 - Maximalism</b> <br/><img src="results/day29_bobhome.png" width="300"/> </br>Microsoft Powerpoint</td>
+  <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </br>Mac emulator + MacPaint</td>
 </tr> 
 <tr>
-  <td colspab="3"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day31.png" width="300"/> </br>Lgge: Python - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
+  <td colspan="3"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day31.png" width="300"/> </br>Lgge: Python - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
 </tr>
 </tbody>
 </table>

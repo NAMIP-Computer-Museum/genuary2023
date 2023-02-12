@@ -38,7 +38,7 @@ See complete material (video versions) in the results subdirectory. A Youtube li
   <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </br>Lgge: P5JS - <a href="https://www.youtube.com/shorts/f7vcW4-Olso">VIDEO</a></td>
 </tr>
 <tr>
-  <td><b>Day 13 - Something you’ve always wanted to learn</b> <br/><img src="results/day13.png" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/Nqsrfxb7XnE ">VIDEO</a></td>
+  <td><b>Day 13 - Something you’ve always wanted<br/> to learn</b> <br/><img src="results/day13.png" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/Nqsrfxb7XnE ">VIDEO</a></td>
   <td><b>Day 14 - Aesemic</b> <br/><img src="results/day14.png" width="300"/> </br>Lgge: CPC Locomotive BASIC - <a href="https://youtu.be/HsMdeRc4qus">VIDEO</a></td>
   <td><b>Day 15 - Sine waves</b> <br/><img src="results/day15.jpg" width="300"/> </br>Lgge: C64 BASIC - <a href="https://youtu.be/vI5jI6qu2Hk ">VIDEO</a></td>
 </tr>

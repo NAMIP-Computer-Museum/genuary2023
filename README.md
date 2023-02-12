@@ -30,12 +30,12 @@ See complete material (video versions) in the results subdirectory. A Youtube li
 <tr>
   <td align="center" valign="top"><b>Day 7 - Sample a color palette from<br/> your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </br>Lgge: Python - <a href="https://www.youtube.com/shorts/eS4xKI4oZtg">VIDEO</a> </td>
   <td align="center" valign="top"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/></br>Lgge: shader - <a href="https://www.youtube.com/watch?v=I5P44xdhEm4">VIDEO</a> </td>
-  <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/rj--_LJQC1U">VIDEO</a></td>
+  <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/1CqnpvAU-">P5JS</a> - <a href="https://youtu.be/rj--_LJQC1U">VIDEO</a></td>
 </tr>
 <tr>
   <td align="center" valign="top"><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/></br>Lgge: Python - <a href="https://youtu.be/EZGvFoNR0sI">VIDEO</a></td>
   <td align="center" valign="top"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </br>Lgge: P5JS - <a href="https://www.youtube.com/shorts/Xr4ncWf0iEg">VIDEO</a></td>
-  <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </br>Lgge: P5JS - <a href="https://www.youtube.com/shorts/f7vcW4-Olso">VIDEO</a></td>
+  <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/qkiRiRUxP">P5JS</a> - <a href="https://www.youtube.com/shorts/f7vcW4-Olso">VIDEO</a></td>
 </tr>
 <tr>
   <td><b>Day 13 - Something you’ve always<br/>wanted to learn</b> <br/><img src="results/day13.png" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/Nqsrfxb7XnE ">VIDEO</a></td>
@@ -43,8 +43,8 @@ See complete material (video versions) in the results subdirectory. A Youtube li
   <td><b>Day 15 - Sine waves</b> <br/><img src="results/day15.jpg" width="300"/> </br>Lgge: C64 BASIC - <a href="https://youtu.be/vI5jI6qu2Hk ">VIDEO</a></td>
 </tr>
 <tr>
-  <td><b>Day 16 - Reflection of a reflection</b> <br/><img src="results/day16.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/JTlHhbH6JmU">VIDEO</a></td>
-  <td><b>Day 17 - A grid inside a grid inside a grid</b> <br/><img src="results/day17.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/VYuSfsjL76c">VIDEO</a></td>
+  <td><b>Day 16 - Reflection of a reflection</b> <br/><img src="results/day16.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/nKNcji5OZ">P5JS</a> - <a href="https://youtube.com/shorts/JTlHhbH6JmU">VIDEO</a></td>
+  <td><b>Day 17 - A grid inside a grid inside a grid</b> <br/><img src="results/day17.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/HswX4F0HG">P5JS</a> - <a href="https://youtu.be/VYuSfsjL76c">VIDEO</a></td>
   <td><b>Day 18 - Definitely not a grid</b> <br/><img src="results/day18.jpg" width="300"/> </br>Lgge: Neo4J - <a href="https://youtu.be/1kyGTxODXVs">VIDEO</a></td>
 </tr>
 <tr>
@@ -54,11 +54,11 @@ See complete material (video versions) in the results subdirectory. A Youtube li
 </tr>
 <tr>
   <td><b>Day 22 - Shadows</b> <br/><img src="results/day22.jpg" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/avU1mYSjhfg">VIDEO</a></td>
-  <td><b>Day 23 - More Moiré</b> <br/><img src="results/day23.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/cUxKe6WqMbE">VIDEO</a></td>
-  <td><b>Day 24 - Textile</b> <br/><img src="results/day24.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/LwBDkXKq9gA">VIDEO</a></td>
+  <td><b>Day 23 - More Moiré</b> <br/><img src="results/day23.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/85-NzBey1">P5JS</a> - <a href="https://youtube.com/shorts/cUxKe6WqMbE">VIDEO</a></td>
+  <td><b>Day 24 - Textile</b> <br/><img src="results/day24.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/yrGzNhVM7d">P5JS</a> - <a href="https://youtube.com/shorts/LwBDkXKq9gA">VIDEO</a></td>
 </tr> 
 <tr>
-  <td><b>Day 25 - Yayoi Kusama</b> <br/><img src="results/day25_Kusama_.png" width="300"/> </br>Lgge: P5JS</td>
+  <td><b>Day 25 - Yayoi Kusama</b> <br/><img src="results/day25_Kusama_.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/ZjvrhmodU">P5JS</a></td>
   <td><b>Day 26 - My kid could have made that</b> <br/><img src="results/day26.jpg" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/6Lftylo-zNg">VIDEO</a></td>
   <td><b>Day 27 - In the style of Hilma Af Klint</b> <br/><img src="results/day27.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/9Ya6OvzEA">P5JS</a> - <a href="https://youtube.com/shorts/H5PGB4Achcw">VIDEO</a></td>
 </tr> 

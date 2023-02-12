@@ -68,7 +68,7 @@ See complete material (video versions) in the results subdirectory. A Youtube li
   <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </td>
 </tr> 
 <tr>
-  <td colspab="3"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day31.png" width="300"/> </br>Lgge: P5JS - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
+  <td colspab="3"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day31.png" width="300"/> </br>Lgge: Python - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
 </tr>
 </tbody>
 </table>

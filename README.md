@@ -68,7 +68,7 @@ For many days, videos are available in the results subdirectory and also on Yout
   <td><b>Day 30 - Minimalism</b> <br/><img src="results/day30_minimalism.png" width="300"/> </br>Mac emulator + MacPaint</td>
 </tr> 
 <tr>
-  <td colspan="1"><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day31.png" width="300"/> </br>Lgge: Python - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
+  <td><b>Day 31 - Deliberately break one of your previous images, take one of your previous works and ruin it</b> <br/><img src="results/day31.png" width="300"/> </br>Lgge: Python - <a href="https://youtube.com/shorts/p7u8EkVw3U8">VIDEO</a></td>
 </tr>
 </tbody>
 </table>

@@ -9,7 +9,7 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ## Gallery
 
-See complete material (video versions) in the results subdirectory. A Youtube link is available for most fays and a P5JS link when the code was in that language.
+For many days, videos are available in the results subdirectory and also on Youtube (link below the picture). A P5JS link when the prompt was coded in that language.
 
 <!-- IMAGE-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

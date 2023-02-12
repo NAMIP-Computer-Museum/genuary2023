@@ -9,7 +9,7 @@ Languages: BASIC (CPC,C64), Turbo Pascal, Python (PyGame), P5JS, Three.js (WEBGL
 
 ## Gallery
 
-See complete material (video versions) in the results subdirectory. Click to see video (when available)
+See complete material (video versions) in the results subdirectory. A Youtube link is available for most fays and a P5JS link when the code was in that language.
 
 <!-- IMAGE-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -18,21 +18,21 @@ See complete material (video versions) in the results subdirectory. Click to see
 <table>
 <tbody>
 <tr>
-  <td align="center" valign="top"><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </td>
+  <td align="center" valign="top"><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </br>Lgge: Python</td>
+  <td align="center" valign="top"><b>Day 2 - Made in 10 minutes</b> <img src="results/day2.png" width="300"/> </br>Lgge: CPC Locomotive BASIC</td>
+  <td align="center" valign="top"><b>Day 3 - Glitch Art</b> <br/><img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </br>Lgge: Python/teletext</td>
 </tr>
 <tr>
-  <td align="center" valign="top"><b>Day 4 - Intersections</b> <br/> <a href="https://raw.githubusercontent.com/cponsard/genuary2023/main/results/day4-Intersections.mp4"><img src="results/day4_intersections.png" width="300"/></a> </td>
-  <td align="center" valign="top"><b>Day 5 - Debug view</b> <br/> <a href="results/day5_glitch_3D.mp4"><img src="results/day5_glitch_3D.png" width="300"/></a> </td>
-  <td align="center" valign="top"><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </td>
+  <td align="center" valign="top"><b>Day 4 - Intersections</b> <br/> <img src="results/day4_intersections.png" width="300"/></a> </br>Lgge: Turbo Pascal/GDI - <a href="https://www.youtube.com/watch?v=3yBQybKeCvg">VIDEO</a></td>
+  <td align="center" valign="top"><b>Day 5 - Debug view</b> <br/> <a href="results/day5_glitch_3D.mp4"><img src="results/day5_glitch_3D.png" width="300"/></a> </br>Lgge: OpenScad</td>
+  <td align="center" valign="top"><b>Day 6 - Steal like an artist</b> <br/> <a href="results/day6_steal.mp4"><img src="results/day6_steal.png" width="300"/></a> </br>Lgge: Python - <a href="https://www.youtube.com/watch?v=igOCSb6lbYs">VIDEO</a></td>
 </tr>
 <tr>
-  <td align="center" valign="top"><b>Day 7 - Sample a color palette from<br/> your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </td>
-  <td align="center" valign="top"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/> </td>
-  <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </td>
+  <td align="center" valign="top"><b>Day 7 - Sample a color palette from<br/> your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </br>Lgge: Python - <a href="https://www.youtube.com/shorts/eS4xKI4oZtg">VIDEO</a> </td>
+  <td align="center" valign="top"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/></br>Lgge: shader - <a href="https://www.youtube.com/watch?v=I5P44xdhEm4">VIDEO</a> </td>
+  <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </br>Lgge: P5JS - <a href="https://youtu.be/rj--_LJQC1U ">VIDEO</a></td>
 </tr>
- <tr>
+<tr>
   <td align="center" valign="top"><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/> </td>
   <td align="center" valign="top"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </td>
   <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </td>
@@ -40,8 +40,8 @@ See complete material (video versions) in the results subdirectory. Click to see
 </tbody>
 </table>
 
-TEST
-  
+
+
 <table>
    <tr>
   <td><b>Day 13 - Something you’ve always wanted to learn</b> <br/><img src="results/day10.png" width="300"/> </td>

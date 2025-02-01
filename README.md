@@ -15,23 +15,6 @@ For many days, videos are available in the results subdirectory and also on Yout
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-  }
-  td {
-    width: 33.33%;
-    text-align: center;
-    vertical-align: top;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
 <table>
 <tbody>
 <tr>

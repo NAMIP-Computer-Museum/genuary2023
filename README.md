@@ -28,11 +28,6 @@ For many days, videos are available in the results subdirectory and also on Yout
         <img src="results/day3_ttx_glitches.gif" width="300" height="225"/> </br>Lgge: Python/teletext
       </td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-<tbody>
 <tr>
   <td align="center" valign="top"><b>Day 4 - Intersections</b> <br/> <img src="results/day4_intersections.png" width="300"/></a> </br>Lgge: Turbo Pascal/GDI - <a href="https://www.youtube.com/3yBQybKeCvg">VIDEO</a></td>
   <td align="center" valign="top"><b>Day 5 - Debug view</b> <br/> <img src="results/day5_glitch_3D.png" width="300"/> </br>Lgge: OpenScad</td>

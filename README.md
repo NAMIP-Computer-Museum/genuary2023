@@ -33,18 +33,15 @@ For many days, videos are available in the results subdirectory and also on Yout
   <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 5 - Debug view</b> <br/> <img src="results/day5_glitch_3D.png" width="300"/> </br>Lgge: OpenScad</td>
   <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 6 - Steal like an artist</b> <br/> <img src="results/day6_steal.png" width="300"/> </br>Lgge: Python - <a href="https://www.youtube.com/shorts/igOCSb6lbYs">VIDEO</a></td>
 </tr>
-</tbody>
-</table>
-    
 <tr>
-  <td align="center" valign="top"><b>Day 7 - Sample a color palette from<br/> your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </br>Lgge: Python - <a href="https://www.youtube.com/shorts/eS4xKI4oZtg">VIDEO</a> </td>
-  <td align="center" valign="top"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/></br>Lgge: shader - <a href="https://www.youtube.com/watch?v=I5P44xdhEm4">VIDEO</a> </td>
-  <td align="center" valign="top"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/1CqnpvAU-">P5JS</a> - <a href="https://youtu.be/rj--_LJQC1U">VIDEO</a></td>
+  <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 7 - Sample a color palette from<br/> your favorite movie/album cover</b> <br/><img src="results/day7_palette.png" height="300"/> </br>Lgge: Python - <a href="https://www.youtube.com/shorts/eS4xKI4oZtg">VIDEO</a> </td>
+  <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 8 - Signed Distance Functions</b> <br/><img src="results/day8.jpg" width="300"/></br>Lgge: shader - <a href="https://www.youtube.com/watch?v=I5P44xdhEm4">VIDEO</a> </td>
+  <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 9 - Plants</b> <br/><img src="results/day9.jpg" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/1CqnpvAU-">P5JS</a> - <a href="https://youtu.be/rj--_LJQC1U">VIDEO</a></td>
 </tr>
 <tr>
-  <td align="center" valign="top"><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/></br>Lgge: Python - <a href="https://youtu.be/EZGvFoNR0sI">VIDEO</a></td>
-  <td align="center" valign="top"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/nqu61VEeN">P5JS</a> - <a href="https://www.youtube.com/shorts/Xr4ncWf0iEg">VIDEO</a></td>
-  <td align="center" valign="top"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/qkiRiRUxP">P5JS</a> - <a href="https://www.youtube.com/shorts/f7vcW4-Olso">VIDEO</a></td>
+  <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 10 - Generative Music</b> <br/><img src="results/day10.png" width="300"/></br>Lgge: Python - <a href="https://youtu.be/EZGvFoNR0sI">VIDEO</a></td>
+  <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 11 - Suprematism</b> <br/><img src="results/day11.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/nqu61VEeN">P5JS</a> - <a href="https://www.youtube.com/shorts/Xr4ncWf0iEg">VIDEO</a></td>
+  <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 12 - Tessallation</b> <br/><img src="results/day12.png" width="300"/> </br>Lgge: <a href="https://editor.p5js.org/cponsard/sketches/qkiRiRUxP">P5JS</a> - <a href="https://www.youtube.com/shorts/f7vcW4-Olso">VIDEO</a></td>
 </tr>
 <tr>
   <td><b>Day 13 - Something you’ve always<br/>wanted to learn</b> <br/><img src="results/day13.png" width="300"/> </br>Lgge: Python - <a href="https://youtu.be/Nqsrfxb7XnE ">VIDEO</a></td>

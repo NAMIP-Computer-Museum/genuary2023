@@ -15,15 +15,20 @@ For many days, videos are available in the results subdirectory and also on Yout
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<table>
-<tbody>
-<tr>
-  <td><b>Day 1 - Perfect Loop</b> <br/> <img src="results/day1-loop-V1.gif" width="300"/> </br>Lgge: Python</td>
-  <td><b>Day 2 - Made in 10 minutes</b> <br/> <img src="results/day2.png" width="300"/> </br>Lgge: CPC Locomotive BASIC</td>
-  <td><b>Day 3 - Glitch Art</b> <br/> <img src="results/day3_ttx_glitches.gif" width="300" height="225" /> </br>Lgge: Python/teletext</td>
-</tr>
-<!-- Repeat similar structure for other rows -->
-</tbody>
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 1 - Perfect Loop</b> <br/> 
+        <img src="results/day1-loop-V1.gif" width="300"/> </br>Lgge: Python
+      </td>
+      <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 2 - Made in 10 minutes</b> <br/> 
+        <img src="results/day2.png" width="300"/> </br>Lgge: CPC Locomotive BASIC
+      </td>
+      <td align="center" valign="top" width="33.33%" style="word-wrap: break-word;"><b>Day 3 - Glitch Art</b> <br/> 
+        <img src="results/day3_ttx_glitches.gif" width="300" height="225"/> </br>Lgge: Python/teletext
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <table>
